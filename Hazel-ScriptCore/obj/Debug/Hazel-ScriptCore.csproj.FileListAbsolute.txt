@@ -1,0 +1,10 @@
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazelnut\assets\scripts\Hazel-ScriptCore.deps.json
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazelnut\assets\scripts\Hazel-ScriptCore.dll
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazelnut\assets\scripts\Hazel-ScriptCore.pdb
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazel-ScriptCore\obj\Debug\Hazel-ScriptCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazel-ScriptCore\obj\Debug\Hazel-ScriptCore.AssemblyInfoInputs.cache
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazel-ScriptCore\obj\Debug\Hazel-ScriptCore.AssemblyInfo.cs
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazel-ScriptCore\obj\Debug\Hazel-ScriptCore.csproj.CoreCompileInputs.cache
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazel-ScriptCore\obj\Debug\Hazel-ScriptCore.sourcelink.json
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazel-ScriptCore\obj\Debug\Hazel-ScriptCore.dll
+D:\programs\Visual Studio\Game Engine\Hazel2\Hazel-ScriptCore\obj\Debug\Hazel-ScriptCore.pdb

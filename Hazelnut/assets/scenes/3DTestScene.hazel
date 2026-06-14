@@ -1,0 +1,27 @@
+Scene: Untitled
+Entities:
+  - Entity: 5188701951302555081
+    TagComponent:
+      Tag: TestModel
+    TransformComponent:
+      Translation: [0, 0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    MeshRendererComponent:
+      MeshPath: assets\models\nekoneko\2d40a4d5dd5a4598bf189c06261e8313.obj
+      Albedo: [1, 1, 1, 1]
+      Metallic: 0
+      Roughness: 0.5
+  - Entity: 1712587961704458013
+    TagComponent:
+      Tag: PointLight
+    TransformComponent:
+      Translation: [-0.147238404, 1.05361497, -1.82636976]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    PointLightComponent:
+      Color: [1, 1, 1]
+      Intensity: 1
+      Constant: 1
+      Linear: 0.0900000036
+      Quadratic: 0.0320000015
